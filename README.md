@@ -144,7 +144,7 @@ Launch the dashboard:
 ```bash
 queuectl dashboard
 ```
-[Webpage](web/web.png)
+(web/web.png)
 
 Access it in the browser on Local Host
 
