@@ -144,7 +144,8 @@ Launch the dashboard:
 ```bash
 queuectl dashboard
 ```
-web/web.png
+
+<img width="1917" height="831" alt="web" src="https://github.com/user-attachments/assets/a8f2c0bb-fb5a-4b15-b6de-f7da9d6559cc" />
 
 Access it in the browser on Local Host
 
