@@ -1,0 +1,6 @@
+{
+    "max_retries": 4,
+    "backoff_base": 2,
+    "worker_count": 2,
+    "job_timeout": 45
+}
